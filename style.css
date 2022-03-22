@@ -216,6 +216,9 @@ footer{
     .title-2{
         font-size: 20px;
     }
+    
+    .title-2,h2{
+        font-size: 34px;
     h5{
         font-size: 15px;
     }
